@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
+## REST API fetching with JSON
 
 This project is a starting point for a Flutter application.
 
