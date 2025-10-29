@@ -1,6 +1,7 @@
 # Weather App Flutter Project
 
-A new Flutter project.
+A Flutter app with json api calling.
+![User App Screenshot](assets/ss1.png)
 
 ## REST API fetching with JSON
 
